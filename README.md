@@ -332,9 +332,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost scorecardpy job
 
 # 👨‍💻 Author
 
-## Suvendu Samanta
-
-Manager | Credit Risk Analytics | Python | PySpark | GenAI Enthusiast
+## SAMARTH SINGH
+BITS PILANI (ECE)
 
 ---
 
